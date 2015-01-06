@@ -2,7 +2,7 @@ Day 2 - Enumerable
 =================
 
 
-# PART 1
+### PART 1: Words from strings
 1. Create an array of the words in the sentence below
 2. Find how many words have a length equal to 4
 
@@ -10,7 +10,7 @@ Day 2 - Enumerable
 "Ruby is way better than JavaScript."
 ```
 
-# Part 2: Movies:
+### Part 2: Enumerable
 ```ruby
 movies = []
 
